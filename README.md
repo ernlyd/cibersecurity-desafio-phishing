@@ -16,7 +16,7 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.instagram.com
 
-### Resutados
+### Resultado
 
 ![instagram_fake](https://github.com/user-attachments/assets/6dc75407-b606-4bbc-95aa-cdd9e2d30791)
 
